@@ -8,8 +8,3 @@ def name
   end
 end
 
-assie = Dog.new
-lassie.name = "Lassie"
- 
-puts lassie.name
- 
